@@ -21,3 +21,8 @@ main Function: The 'main' function is defined. Inside this function, the code re
 
 
 This data can be used as input for the JavaScript code you provided earlier to calculate and display the gross salary, house rent allowance (HRA), and dearness allowance (DA) for each of these employees based on their respective basic salaries. The code reads this data from a 'data.json' file and performs the calculations.
+
+**Screen short of output:**
+
+
+https://docs.google.com/document/d/1hClaSMiQR3kXSRBaRR-nXDZX0opWqTBB5kgZqZOffh4/edit
